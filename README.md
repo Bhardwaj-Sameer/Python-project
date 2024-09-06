@@ -4,7 +4,7 @@
 This is a simple project
 
 
-It sorts all the files in a given directory and moves them into folders based on their extensions
+It sorts all the files in a given directory and moves  them into folders based on their extensions
 
 
 Iterate through each file and assign a folder based on the extension of the file
