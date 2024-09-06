@@ -1,7 +1,7 @@
 import os
 import shutil
 
-def moveTo(destination, file_name):
+def move_to(destination, file_name):
    
    #Creating the folder if it does not exists
    if not os.path.exists(destination):

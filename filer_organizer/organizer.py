@@ -1,5 +1,5 @@
 import os
-from utils import moveTo
+from utils import move_to
 
 os.chdir('D:/Clutter')
 
@@ -37,7 +37,7 @@ for files in os.listdir():
 
 
 #Sending the folder name and file name as arguements to moveTo, which is defined in utils.py
-  moveTo(destination,full_name)
+  move_to(destination,full_name)
       
 
 
