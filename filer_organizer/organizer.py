@@ -36,7 +36,7 @@ for files in os.listdir():
         destination="Music"
 
 
-#Sending the folder name and file name as arguements 
+#Sending the folder name and file name as arguements to moveTo, which is defined in utils.py
   moveTo(destination,full_name)
       
 
