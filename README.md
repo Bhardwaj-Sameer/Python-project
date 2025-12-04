@@ -1,4 +1,4 @@
 # Python-project
-# This repo will contain my first Python-Project
+# This repo will contain my Python-Projects
 
 #1-File Organizer
